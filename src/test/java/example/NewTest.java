@@ -34,7 +34,7 @@ System.out.println("Running in headless mode (Linux/CI)");
 System.out.println("Running in normal mode (GUI available)");
 }
 
-/* Selenium Manager handles driver automatically */
+
 driver = new ChromeDriver(options);
 }
 
